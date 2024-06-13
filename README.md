@@ -1,5 +1,5 @@
 ## Conversor de Segundos para formato HH/MM/SS criado com Java.
 
-Conversor criado durante estudos de Java.
+Conversor criado em Java, converte segundos em formatação padrão de horas/minutos/segundos.
 
-![image](https://github.com/pedroAugtIn/ConversorSegundosJava/assets/158518938/d39cc523-c913-4b9b-b9a9-d92a57180bd7)
+![image](https://github.com/pedroAugtIn/ConversorSegundosJava/assets/158518938/39052482-98a8-4a59-935f-dfaa83995b23)
